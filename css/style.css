@@ -118,7 +118,7 @@ thead tr:first-child th:last-child{
 table tr:last-child .rowhead:first-child {
   border-radius: 0 0 0 10px;
 }
-table tr:last-child t0d:last-child{
+table tr:last-child td:last-child {
   border-radius: 0 0 10px 0;
 }
 
