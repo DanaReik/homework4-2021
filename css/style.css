@@ -78,7 +78,7 @@ td{
 .colhead{
   color: #FFFFFF;
   min-width: 125px;
-  padding: 10px;
+  padding: 10px 0;
   text-align: center;
   text-transform: uppercase;
   background-color: #7e0820;
@@ -97,7 +97,7 @@ tr:nth-child(odd) {background-color: transparent;}
 tr:nth-child(even) {background-color: #d1d1d1;}
 /*Req 6f*/
 tr:hover {
-  background-color: rgba(125, 8, 31, 0.25);
+  background-color: rgba(126, 8, 32, 0.25);
 }
 
 
