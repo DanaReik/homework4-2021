@@ -86,7 +86,8 @@ td{
 }
 /*Req 6c*/
 .rowhead{
-  border: 2px solid black;
+  border-right: 2px solid black;
+  border-top: 2px solid black;
   padding: 10px;
 }
 
@@ -104,9 +105,11 @@ tr:hover {
 /*Req 7*/
 table{
     border: 2px solid #000000;
-    border-collapse: collapse;
+    border-collapse: separate;
+    border-spacing: 0;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 10px;
 }
 
 thead tr:first-child th:first-child{
